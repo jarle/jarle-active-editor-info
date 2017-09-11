@@ -2,7 +2,7 @@
   "name": "jarle-active-editor-info",
   "main": "./lib/jarle-active-editor-info",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "A simple plugin created using a flight manual tutorial",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "jarle-active-editor-info:toggle"
