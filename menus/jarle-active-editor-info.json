@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "jarle-active-editor-info",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "jarle-active-editor-info:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
