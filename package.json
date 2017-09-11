@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "jarle-active-editor-info:toggle"
   },
-  "repository": "https://github.com/atom/jarle-active-editor-info",
+  "repository": "https://github.com/jarle/jarle-active-editor-info",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
